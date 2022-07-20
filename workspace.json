@@ -1,5 +1,12 @@
 {
   "$schema": "./node_modules/nx/schemas/workspace-schema.json",
   "version": 2,
-  "projects": {}
+  "projects": {
+    "conjug8": "apps/conjug8",
+    "conjug8-e2e": "apps/conjug8-e2e",
+    "shell": "apps/shell",
+    "shell-e2e": "apps/shell-e2e",
+    "vocab": "apps/vocab",
+    "vocab-e2e": "apps/vocab-e2e"
+  }
 }
