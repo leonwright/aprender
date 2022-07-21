@@ -11,19 +11,6 @@ export function App() {
   return (
     <Shell>
       <React.Suspense fallback={null}>
-        {/* <ul>
-          <li>
-            <Link to="/">Home</Link>
-          </li>
-
-          <li>
-            <Link to="/conjug8">Conjug8</Link>
-          </li>
-
-          <li>
-            <Link to="/vocab">Vocab</Link>
-          </li>
-        </ul> */}
         <Routes>
           <Route path="/" element={<>Test</>} />
 

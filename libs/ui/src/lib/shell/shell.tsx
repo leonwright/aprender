@@ -91,7 +91,7 @@ export function Shell({ children }: ShellProps) {
               </Sidebar.Items>
             </Sidebar>
           </div>
-          <div>{children}</div>
+          <div className="w-full">{children}</div>
         </div>
       </Flowbite>
     </div>
