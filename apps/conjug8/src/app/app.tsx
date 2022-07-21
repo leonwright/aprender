@@ -3,8 +3,7 @@ import NxWelcome from './nx-welcome';
 export function App() {
   return (
     <>
-      <NxWelcome title="conjug8" />
-      <div />
+      <div className="bg-red-500">Conjug8</div>
     </>
   );
 }

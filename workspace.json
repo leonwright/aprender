@@ -6,6 +6,7 @@
     "conjug8-e2e": "apps/conjug8-e2e",
     "shell": "apps/shell",
     "shell-e2e": "apps/shell-e2e",
+    "ui": "libs/ui",
     "vocab": "apps/vocab",
     "vocab-e2e": "apps/vocab-e2e"
   }

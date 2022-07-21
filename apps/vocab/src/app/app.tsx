@@ -3,8 +3,7 @@ import NxWelcome from './nx-welcome';
 export function App() {
   return (
     <>
-      <NxWelcome title="vocab" />
-      <div />
+      <div className="bg-pink-500">Vocab</div>
     </>
   );
 }
